@@ -43,7 +43,7 @@ public class Rendicion {
     private int anio_2022;
     private int anio_2023;
     private int acumulado;
-    private String fecha_ult_expte;
+    private String fech_ult_expte;
     private String ult_bm_rendido;
 
    
