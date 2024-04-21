@@ -35,6 +35,7 @@ public class PrestacionesMonto {
     private int anio_2021;
     private int anio_2022;
     private int anio_2023;
+    private int anio_2024;
     private int total_ac;
     
 }
